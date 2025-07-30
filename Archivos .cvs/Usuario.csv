@@ -1,0 +1,6 @@
+"id_usuario","nombre","correo","contrasena","rol"
+"1","Ana","ana@unl.edu.ec","1234","estudiante"
+"2","Luis","luis@unl.edu.ec","abcd","estudiante"
+"3","Carlos","carlos@unl.edu.ec","pass","docente"
+"4","María","maria@unl.edu.ec","4321","estudiante"
+"5","Pedro","pedro@unl.edu.ec","xyz987","docente"

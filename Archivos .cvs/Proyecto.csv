@@ -1,0 +1,4 @@
+"id_proyecto","nombre","identificador","descripcion","estado","fecha_creacion"
+"1","SGR","PR001","Sistema de Gestión de Requisitos","activo","2025-07-01"
+"2","Sistema Notas","PR002","Sistema de Notas UNL","inactivo","2025-06-15"
+"3","Evaluador UNL","PR003","Sistema de evaluación docente","activo","2025-07-02"

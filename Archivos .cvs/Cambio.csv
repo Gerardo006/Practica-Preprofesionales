@@ -1,0 +1,5 @@
+"id_cambio","id_usuario","fecha_cambio","justificacion","cambio_requisito","id_requisito"
+"1","2","2025-07-02","Corrección descripción","Se actualizó el alcance","1"
+"2","1","2025-07-02","Cambio de prioridad","Alta a Media","3"
+"3","3","2025-07-02","Nuevo campo agregado","Se añadió campo de estado","2"
+"4","4","2025-07-02","Corrección ortográfica","Revisión en nombres del formulario","4"

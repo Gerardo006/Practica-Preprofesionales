@@ -1,0 +1,5 @@
+"id_relacion","id_requisito_origen","id_requisito_destino","tipo_relacion","descripcion_relacion"
+"1","1","3","dependencia","Exportar depende de registrar requisitos"
+"2","2","1","restriccion","Seguridad restringe el registro"
+"3","4","6","dependencia","Reportes necesitan datos de usuarios registrados"
+"4","5","4","restriccion","Autenticación limita creación de usuarios"

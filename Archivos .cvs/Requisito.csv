@@ -1,0 +1,7 @@
+"id_requisito","descripcion","estado","prioridad","clasificacion","fecha_creacion","tipo","id_usuario_creador","id_proyecto"
+"1","Registrar requisitos","propuesto","alta","funcionalidad","2025-07-01","funcional","1","1"
+"2","Seguridad de acceso","aprobado","media","restriccion","2025-07-01","no funcional","2","1"
+"3","Exportar a PDF","implementado","baja","informacion","2025-07-02","funcional","1","1"
+"4","Registrar usuarios","propuesto","alta","funcionalidad","2025-07-02","funcional","4","3"
+"5","Autenticación por token","aprobado","alta","restriccion","2025-07-02","no funcional","5","3"
+"6","Generar reportes","propuesto","media","informacion","2025-07-02","funcional","2","3"

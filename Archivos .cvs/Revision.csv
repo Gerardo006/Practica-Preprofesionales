@@ -1,0 +1,5 @@
+"id_revision","fecha_creacion","descripcion","estado_revision","id_usuario","id_requisito"
+"1","2025-07-02","Revisión inicial","aprobado","3","1"
+"2","2025-07-02","Observaciones funcionales","pendiente","3","3"
+"3","2025-07-02","Validación de requerimientos","aprobado","5","5"
+"4","2025-07-02","Corrección de inconsistencias","pendiente","2","6"
